@@ -95,10 +95,10 @@ src/
    cd crud-productos-springboot
    
 2. **Compilar u ejecutar la apliacación**
-    # En Linux / macOS / Git Bash
+    #### En Linux / macOS / Git Bash
     mvn spring-boot:run
 
-    # En Windows (PowerShell / CMD)
+    #### En Windows (PowerShell / CMD)
     .\mvnw.cmd spring-boot:run
 
 3. **Verificar que la aplicación está corriendo**
